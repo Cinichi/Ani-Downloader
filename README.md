@@ -209,6 +209,4 @@ MIT License
 * Easily extensible
 
 If this project helped you, consider starring the repository ⭐
-* 🖼️ Screenshots for README
 
-Just tell me 😎
